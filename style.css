@@ -1,3 +1,7 @@
+:root{
+    --cor-de-fundo: rgb(201, 238, 220);
+}
+
 body {
     background-color: rgb(201, 238, 220);
 }
