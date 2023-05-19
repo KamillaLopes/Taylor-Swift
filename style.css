@@ -9,13 +9,3 @@ body {
     background-color: rgb(193, 223, 208);
 }
 
-.cabeçalho__menu-hamburguer {
-    width: 10px;
-    height: 10px;
-    background-image: url("../img/Menu.svg");
-    display: inline-block;
-}
-
-.cabeçalho {
-    background-color: var(--branco);
-}
