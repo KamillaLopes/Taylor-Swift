@@ -17,6 +17,10 @@
     align-items: center;
 }
 
+.container__imagem{
+    padding: 1em;
+}
+
 .taylor{
     width: 35px;
     height:35px;
