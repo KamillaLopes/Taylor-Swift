@@ -22,6 +22,18 @@
     padding: 1em;
 }
 
+.lista-menu{
+    display: none;
+}
+
+.container__botao ~ .lista-menu{
+    display: block;
+}
+
+
+
+
+
 .taylor{
     width: 40px;
     height:40px;
