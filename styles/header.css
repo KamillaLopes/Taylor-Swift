@@ -42,8 +42,11 @@
     color: var(--azul);
 }
 
-.lista-menu__item{
-    color: var(azule);
+.lista-menu__link{
+    background: var(--azule);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
 }
 
 
