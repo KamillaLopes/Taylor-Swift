@@ -29,7 +29,7 @@ banner__pesquisa{
     font-size: 14px;
     font-weight: 400;
     text-align: center;
-    color: var(--branco);
+    color: white;
     background: url("../img/procurar.svg") no-repeat;
     background-position: 1em;
 }
