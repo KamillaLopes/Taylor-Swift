@@ -46,22 +46,7 @@
     height:40px;
 }
 
-.coracao{
-    width: 30px;
-    height:40px;
-}
-
-.carrinho{
-    width: 30px;
-    height:40px;
-}
-
-.perfil{
-    width: 30px;
-    height:40px;
-}
-
-.menus{
+.coracao, .carrinho, .perfil{
     width: 30px;
     height:40px;
 }
