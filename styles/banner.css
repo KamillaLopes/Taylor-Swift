@@ -30,6 +30,6 @@ banner__pesquisa{
     font-weight: 400;
     text-align: center;
     color: var(--branco);
-    background: url("../img/procurar.svg");
+    background: url("../img/procurar.svg") no-repeat;
     background-position: 1em;
 }
