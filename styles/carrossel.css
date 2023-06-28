@@ -11,3 +11,18 @@
 .swiper-slide img{
     width: 100%;
 }
+
+.swiper-button-prev,
+.swiper-button-next{
+    display: none;
+}
+
+.swiper-pagination{
+    position: initial;
+    margin: 5em 0;
+}
+
+.card__descrição{
+    display: flex;
+    justify-content: space-between;
+}
