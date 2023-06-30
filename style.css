@@ -7,7 +7,8 @@
     --branco: #FFFFFF;
     --azul: #001d7a;
     --roxo: #2a005a;
-    --fonte-principal: "Poppins"
+    --fonte-principal: "Poppins";
+    --azule: #002f52;
 }
 
 body {
