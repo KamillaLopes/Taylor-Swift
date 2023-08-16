@@ -66,6 +66,8 @@
 }
 
 .botões__item{
+    width: 30px;
+    height: 40px;
     margin: 0 0.5em;
 }
 
