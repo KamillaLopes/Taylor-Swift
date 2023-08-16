@@ -67,6 +67,8 @@
 
 .botões__item{
     margin: 0 0.5em;
+    width: 30px;
+    height: 40px;
 }
 
 .botões__ancora{
