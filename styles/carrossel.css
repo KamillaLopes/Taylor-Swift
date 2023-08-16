@@ -33,8 +33,9 @@
 }
 
 .descrição__imagem{
-    width: 146px;
-    height: 151px;
+    width: 160px;
+    height: 160px;
+    padding: 1em;
 }
 
 .botões{
