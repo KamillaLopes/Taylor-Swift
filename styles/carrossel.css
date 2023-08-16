@@ -65,14 +65,7 @@
     font-size: 14px;
 }
 
-.botões__item-coracao{
-    width: 2em;
-    height: 2em;
-}
-
-.botões__item-sacola{
-    width: 30px;
-    height: 40px;
+.botões__item{
     margin: 0 0.5em;
 }
 
