@@ -62,8 +62,7 @@
 }
 
 .descrição__texto{
-    width: 318px;
-    height: 65px;
+    font-size: 14px;
 }
 
 .botões__item{
