@@ -32,6 +32,11 @@
     justify-content: space-between;
 }
 
+.descrição__imagem{
+    width: 1em;
+    height: 1em;
+}
+
 .botões{
     display: flex;
 }
