@@ -21,9 +21,9 @@
 }
 
 .topicos__link{
-    color: var(--branco);
+    color: var(--roxo);
     padding: 1em;
-    background-color: var(--azule);
+    background-color: var(--branco);
     text-decoration: none;
     font-size: 14px;
     font-weight: 700;
