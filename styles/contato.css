@@ -22,3 +22,9 @@
     border: 1px solid var(--roxo);
     width: 90%;
 }
+
+.contato__email::placeholder{
+    font-family: var(--fonte-principal);
+    color: var(--roxo);
+    background: url("img/email.png") no-repeat 50px;
+}
