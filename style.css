@@ -10,7 +10,7 @@
     --roxo: #0067a3;
     --fonte-principal: "Poppins";
     --azule: #002f52;
-    --azul--degrade: linear-gradient(97.54deg, #0069b9 35.49%, #468eb8 165.37%);
+    --azul--degrade: linear-gradient(97.54deg, #0067a3 35.49%, #87bfdf 165.37%);
 }
 
 body {
