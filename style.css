@@ -1,6 +1,7 @@
 @import url(styles/header.css);
 @import url(styles/banner.css);
 @import url(styles/carrossel.css);
+@import url(styles/topicos.css);
 
 :root{
     --cor-de-fundo: rgb(198, 226, 235);
@@ -9,6 +10,7 @@
     --roxo: #0067a3;
     --fonte-principal: "Poppins";
     --azule: #002f52;
+    --azul--degrade: linear-gradient(97.54deg, #002f52 35.49%, #0067a3 165.37%);
 }
 
 body {
